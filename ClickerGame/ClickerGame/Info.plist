@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UTImportedTypeDeclarations</key>
+	<array>
+		<dict/>
+	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Simpsonfont DEMO.otf</string>
+		<string>Super Peach.ttf</string>
+		<string>neon.ttf</string>
+		<string>Neon Rave Italic.ttf</string>
+		<string>NeonSans.ttf</string>
+		<string>soloist1.ttf</string>
+		<string>PressStart2P-Regular.ttf</string>
+	</array>
+</dict>
+</plist>
